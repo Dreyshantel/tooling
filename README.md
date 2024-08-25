@@ -11,3 +11,4 @@ This is a Dockerfile to build a debian based container image running nginx and p
 
 
 ## Testing Jenkins
+## Build artifact over SSH
